@@ -1,0 +1,47 @@
+Jeannie Houle, 5, 2, 3, Planet3
+Sharilyn Zeno, 3, 3, 2, Planet3
+Mike Oxlong, 5, 2, 5, Planet3
+Ben Dover, 5, 4, 5, Planet3
+Mike Hunt, 2, 5, 5, Planet3
+Putin, 5, 3, 5, Planet3
+Trump, 3, 5, 5, Planet3
+Leonard McCoy, 5, 5, 5, Planet3
+Bob Marley, 5, 3, 1, Planet1
+Nikola Tesla, 2, 2, 5, Planet2
+Leonard McCoy, 5, 5, 5, Planet3
+Michael Solley, 3, 2, 5, Planet1
+Georgann Trotter, 1, 4, 3, Planet2
+Herbert Deforge, 5, 5, 5, Planet3
+Marva Buel, 1, 2, 1, Planet1
+Dian Cinnamon, 3, 1, 5, Nowhere
+Scottie Gebhardt, 1, 2, 2,
+Mr X, 5, 5, 5, Nowhere
+Haaland, 5, 2, 2,
+Louella Voorhies, 3, 3, 1, Planet1
+Mandy Vaughns, 2, 4, 1, Planet3
+Marshall Mercedes, 5, 5, 5, Planet3
+Treva Emrick, 3, 2, 3, Planet1
+Abe Westbury, 1, 5, 3, Planet2
+Lilla Alto, 4, 2, 1, Planet3
+Dewey Simpson, 3, 3, 3,
+Judy Corning, 1, 5, 3, Planet1
+Isis Resto, 2, 4, 4, Planet3
+Selma Mcnamee, 5, 4, 1, Planet1
+Margrett Murley, 3, 4, 5, Planet1
+Caitlin Bialek, 1, 4, 4, Planet3
+Margrett Murley, 3, 4, 5, Planet1
+Jeannie Houle, 5, 2, 3, Planet1
+Sharilyn Zeno, 3, 3, 2, Planet1
+Leo Messi, 5, 5, 5, Planet1
+Ronaldo, 5, 5, 5, Planet1
+Ronald, 5, 5, 5, Planet1
+Bobby, 5, 5, 5, Planet1
+Rooney, 5, 5, 5, Planet1
+Chamberlain, 5, 5, 5, Planet1
+Salah, 5, 5, 5, Planet1
+Giroud, 5, 5, 5, Planet1
+Leonard McCoy, 5, 5, 5, Planet1
+Bob, 5, 5, 5, Planet2
+Lukas Podolski, 5, 5, 5, Planet2
+Aaron Ramsey, 5, 5, 5, Planet2
+Arsene Wenger, 5, 5, 5, Planet2
